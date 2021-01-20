@@ -1,10 +1,11 @@
 # mailTrip
-A Productivity extension for Chrome and Gmail.
+A Productivity extension for Chrome and Gmail. Premiering soon on the Chrome Store.
 
-###To install Dev:
+### To install Dev:
+#### From within app subfolder:
+
 >npm install
 >npm run build
 
-In chrome://extensions, select "load unpacked" from ../mailTrip/App/ to install.
+From chrome://extensions: enable "developer mode" and open the app subfolder via "load unpacked" to install.
 
-Premiering soon on the Chrome Store.
