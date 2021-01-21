@@ -1,5 +1,5 @@
 # mailTrip
-A Productivity extension for Chrome and Gmail. Premiering soon on the Chrome Store.
+A Productivity extension for Chrome using gmail.js. MailTrip provides an unobtrusive auditory stimulus when you receive new mail on gmail. Premiering soon on the Chrome Store.
 
 ### To install Dev:
 #### From within app subfolder:
